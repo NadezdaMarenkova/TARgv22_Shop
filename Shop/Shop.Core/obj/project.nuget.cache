@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2583KC+WR8nubR2DMobGyNzHDdcAn5DodBZdoR/bgOn0SiKi4qPaot2wkxAbQRAJOQUV4ywyLf+X2s/Z3juang==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\opilane\\Source\\Repos\\TARgv22_Shop\\Shop\\Shop.Core\\Shop.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\opilane\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\opilane\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\opilane\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
