@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EVCrDF0ObtOV5Q74ufX5LppDr3UjaGG+L8qpZwfPOpZyWzXSacHRBvsJY0GFart9a36WhwYcEb55U1UdMhharg==",
+  "dgSpecHash": "8KcxRyJjqa+v0UwwZnP/nG0H6lHiFN+CpVGGMa7y+Q+Gkf8SWF9/uxdjbE6DxO1lFh8DgGK9P+xuqAEWFXYa1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\opilane\\Source\\Repos\\TARgv22_Shop\\Shop\\Shop.Core\\Shop.Core.csproj",
+  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\TARgv22_Shop\\Shop\\Shop.Core\\Shop.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\opilane\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
     "C:\\Users\\opilane\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

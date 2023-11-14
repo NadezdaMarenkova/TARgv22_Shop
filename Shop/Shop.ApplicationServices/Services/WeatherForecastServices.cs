@@ -4,7 +4,7 @@ using Shop.Core.Dto.OpenWeatherDtos;
 using System.Net;
 using System.Text.Encodings.Web;
 using System.Net;
-
+using Shop.Core.ServiceInterface;
 
 namespace Shop.ApplicationServices.Services
 {
@@ -12,7 +12,7 @@ namespace Shop.ApplicationServices.Services
     {
         public async Task<OpenWeatherResultDto> OpenWeatherResult(OpenWeatherResultDto dto)
         {
-            string idOpenWeather = "yourAPIKey";
+            string idOpenWeather = "2852bc2c399d6c482499b9381cb819ae";
             string url = $"https://api.openweathermap.org/data/2.5/weather?q={dto.City}&units=metric&appid={idOpenWeather}";
 
             using (WebClient client = new WebClient())

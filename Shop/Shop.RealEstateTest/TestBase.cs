@@ -1,12 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Diagnostics;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Hosting;
+using Shop.ApplicationServices.Services;
+using Shop.Core.ServiceInterface;
+using Shop.Data;
+using Shop.RealEstateTest.Macros;
 
 namespace Shop.RealEstateTest
 {
-    internal class TestBase
+    public class TestBase
     {
         protected IServiceProvider serviceProvider { get; }
 
@@ -36,7 +40,6 @@ namespace Shop.RealEstateTest
         {
             services.AddScoped<ISpaceshipServices, SpaceshipServices>();
             services.AddScoped<IFileServices, FilesServices>();
-            services.AddScoped<IHostEnvironment, MockIHostEnvironment>();
 
 
             services.AddDbContext<ShopContext>(x =>

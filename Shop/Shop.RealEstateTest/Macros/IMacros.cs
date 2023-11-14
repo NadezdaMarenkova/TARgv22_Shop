@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Shop.RealEstateTest.Macros
 {
-    internal class IMacros
+    public interface IMacros
     {
     }
 }

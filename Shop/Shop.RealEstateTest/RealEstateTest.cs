@@ -1,4 +1,7 @@
-﻿using System;
+﻿using Shop.Core.Domain;
+using Shop.Core.Dto;
+using Shop.Core.ServiceInterface;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,17 +16,17 @@ namespace Shop.RealEstateTest
         {
             RealEstateDto dto = new RealEstateDto();
 
-            dto.Name = "Name";
-            dto.Type = "Type";
-            dto.Passengers = 123;
-            dto.EnginePower = 123;
-            dto.Crew = 123;
-            dto.Company = "asd";
-            dto.CargoWeight = 123;
-            dto.CreatedAt = DateTime.Now;
-            dto.ModifiedAt = DateTime.Now;
+            dto.Address = "Name";
+            dto.SizeSqrM = 123;
+            dto.Floor = 123;
+            dto.BuildingType = "sdf";
+            //dto.Crew = 123;
+            //dto.Company = "asd";
+            //dto.CargoWeight = 123;
+            //dto.CreatedAt = DateTime.Now;
+            //dto.ModifiedAt = DateTime.Now;
 
-            var result = await Svc<ISpaceshipServices>().Create(dto);
+            var result = await Svc<IRealEstatesServices>().Create(dto);
 
             Assert.NotNull(result);
         }

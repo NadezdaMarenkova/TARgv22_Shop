@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j2oXihzxYVb5mUyyE+W5RhDOHN1yvZnVC3kDTTFfw3un5BPLk4xzBq5yzcuGbqXTcow0uW7QVGLZMrtRT0HJDw==",
+  "dgSpecHash": "EYRA4dl0vJcbup08Sc69jgo28k/4wH0SWsUZXMKTs1r0MA0fcMTTZtV41PJ2NuEaSIW22t0z2qiLSbN83gXVog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\opilane\\Source\\Repos\\TARgv22_Shop\\Shop\\Shop.SpaceshipTest\\Shop.SpaceshipTest.csproj",
+  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\TARgv22_Shop\\Shop\\Shop.SpaceshipTest\\Shop.SpaceshipTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\opilane\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\opilane\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",

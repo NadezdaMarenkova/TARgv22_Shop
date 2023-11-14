@@ -8481,9 +8481,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\opilane\\Source\\Repos\\TARgv22_Shop\\Shop\\Shop.SpaceshipTest\\Shop.SpaceshipTest.csproj",
+      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\TARgv22_Shop\\Shop\\Shop.SpaceshipTest\\Shop.SpaceshipTest.csproj",
       "projectName": "Shop.SpaceshipTest",
-      "projectPath": "C:\\Users\\opilane\\Source\\Repos\\TARgv22_Shop\\Shop\\Shop.SpaceshipTest\\Shop.SpaceshipTest.csproj",
+      "projectPath": "C:\\Users\\opilane\\source\\repos\\TARgv22_Shop\\Shop\\Shop.SpaceshipTest\\Shop.SpaceshipTest.csproj",
       "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\opilane\\Source\\Repos\\TARgv22_Shop\\Shop\\Shop.SpaceshipTest\\obj\\",
       "projectStyle": "PackageReference",
@@ -8507,8 +8507,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\opilane\\Source\\Repos\\TARgv22_Shop\\Shop\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj": {
-              "projectPath": "C:\\Users\\opilane\\Source\\Repos\\TARgv22_Shop\\Shop\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj"
+            "C:\\Users\\opilane\\source\\repos\\TARgv22_Shop\\Shop\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj": {
+              "projectPath": "C:\\Users\\opilane\\source\\repos\\TARgv22_Shop\\Shop\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj"
             }
           }
         }

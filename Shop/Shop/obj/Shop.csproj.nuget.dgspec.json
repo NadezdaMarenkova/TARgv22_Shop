@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\Source\\Repos\\TARgv22_Shop\\Shop\\Shop\\Shop.csproj": {}
+    "C:\\Users\\opilane\\source\\repos\\TARgv22_Shop\\Shop\\Shop\\Shop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\Source\\Repos\\TARgv22_Shop\\Shop\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj": {
+    "C:\\Users\\opilane\\source\\repos\\TARgv22_Shop\\Shop\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\Source\\Repos\\TARgv22_Shop\\Shop\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\TARgv22_Shop\\Shop\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj",
         "projectName": "Shop.ApplicationServices",
-        "projectPath": "C:\\Users\\opilane\\Source\\Repos\\TARgv22_Shop\\Shop\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj",
+        "projectPath": "C:\\Users\\opilane\\source\\repos\\TARgv22_Shop\\Shop\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\Source\\Repos\\TARgv22_Shop\\Shop\\Shop.ApplicationServices\\obj\\",
+        "outputPath": "C:\\Users\\opilane\\source\\repos\\TARgv22_Shop\\Shop\\Shop.ApplicationServices\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\opilane\\Source\\Repos\\TARgv22_Shop\\Shop\\Shop.Core\\Shop.Core.csproj": {
-                "projectPath": "C:\\Users\\opilane\\Source\\Repos\\TARgv22_Shop\\Shop\\Shop.Core\\Shop.Core.csproj"
+              "C:\\Users\\opilane\\source\\repos\\TARgv22_Shop\\Shop\\Shop.Core\\Shop.Core.csproj": {
+                "projectPath": "C:\\Users\\opilane\\source\\repos\\TARgv22_Shop\\Shop\\Shop.Core\\Shop.Core.csproj"
               },
-              "C:\\Users\\opilane\\Source\\Repos\\TARgv22_Shop\\Shop\\Shop.Data\\Shop.Data.csproj": {
-                "projectPath": "C:\\Users\\opilane\\Source\\Repos\\TARgv22_Shop\\Shop\\Shop.Data\\Shop.Data.csproj"
+              "C:\\Users\\opilane\\source\\repos\\TARgv22_Shop\\Shop\\Shop.Data\\Shop.Data.csproj": {
+                "projectPath": "C:\\Users\\opilane\\source\\repos\\TARgv22_Shop\\Shop\\Shop.Data\\Shop.Data.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\opilane\\Source\\Repos\\TARgv22_Shop\\Shop\\Shop.Core\\Shop.Core.csproj": {
+    "C:\\Users\\opilane\\source\\repos\\TARgv22_Shop\\Shop\\Shop.Core\\Shop.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\Source\\Repos\\TARgv22_Shop\\Shop\\Shop.Core\\Shop.Core.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\TARgv22_Shop\\Shop\\Shop.Core\\Shop.Core.csproj",
         "projectName": "Shop.Core",
-        "projectPath": "C:\\Users\\opilane\\Source\\Repos\\TARgv22_Shop\\Shop\\Shop.Core\\Shop.Core.csproj",
+        "projectPath": "C:\\Users\\opilane\\source\\repos\\TARgv22_Shop\\Shop\\Shop.Core\\Shop.Core.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\Source\\Repos\\TARgv22_Shop\\Shop\\Shop.Core\\obj\\",
+        "outputPath": "C:\\Users\\opilane\\source\\repos\\TARgv22_Shop\\Shop\\Shop.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -151,14 +151,14 @@
         }
       }
     },
-    "C:\\Users\\opilane\\Source\\Repos\\TARgv22_Shop\\Shop\\Shop.Data\\Shop.Data.csproj": {
+    "C:\\Users\\opilane\\source\\repos\\TARgv22_Shop\\Shop\\Shop.Data\\Shop.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\Source\\Repos\\TARgv22_Shop\\Shop\\Shop.Data\\Shop.Data.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\TARgv22_Shop\\Shop\\Shop.Data\\Shop.Data.csproj",
         "projectName": "Shop.Data",
-        "projectPath": "C:\\Users\\opilane\\Source\\Repos\\TARgv22_Shop\\Shop\\Shop.Data\\Shop.Data.csproj",
+        "projectPath": "C:\\Users\\opilane\\source\\repos\\TARgv22_Shop\\Shop\\Shop.Data\\Shop.Data.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\Source\\Repos\\TARgv22_Shop\\Shop\\Shop.Data\\obj\\",
+        "outputPath": "C:\\Users\\opilane\\source\\repos\\TARgv22_Shop\\Shop\\Shop.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -180,8 +180,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\opilane\\Source\\Repos\\TARgv22_Shop\\Shop\\Shop.Core\\Shop.Core.csproj": {
-                "projectPath": "C:\\Users\\opilane\\Source\\Repos\\TARgv22_Shop\\Shop\\Shop.Core\\Shop.Core.csproj"
+              "C:\\Users\\opilane\\source\\repos\\TARgv22_Shop\\Shop\\Shop.Core\\Shop.Core.csproj": {
+                "projectPath": "C:\\Users\\opilane\\source\\repos\\TARgv22_Shop\\Shop\\Shop.Core\\Shop.Core.csproj"
               }
             }
           }
@@ -241,14 +241,14 @@
         }
       }
     },
-    "C:\\Users\\opilane\\Source\\Repos\\TARgv22_Shop\\Shop\\Shop\\Shop.csproj": {
+    "C:\\Users\\opilane\\source\\repos\\TARgv22_Shop\\Shop\\Shop\\Shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\Source\\Repos\\TARgv22_Shop\\Shop\\Shop\\Shop.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\TARgv22_Shop\\Shop\\Shop\\Shop.csproj",
         "projectName": "Shop",
-        "projectPath": "C:\\Users\\opilane\\Source\\Repos\\TARgv22_Shop\\Shop\\Shop\\Shop.csproj",
+        "projectPath": "C:\\Users\\opilane\\source\\repos\\TARgv22_Shop\\Shop\\Shop\\Shop.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\Source\\Repos\\TARgv22_Shop\\Shop\\Shop\\obj\\",
+        "outputPath": "C:\\Users\\opilane\\source\\repos\\TARgv22_Shop\\Shop\\Shop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -270,11 +270,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\opilane\\Source\\Repos\\TARgv22_Shop\\Shop\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj": {
-                "projectPath": "C:\\Users\\opilane\\Source\\Repos\\TARgv22_Shop\\Shop\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj"
+              "C:\\Users\\opilane\\source\\repos\\TARgv22_Shop\\Shop\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj": {
+                "projectPath": "C:\\Users\\opilane\\source\\repos\\TARgv22_Shop\\Shop\\Shop.ApplicationServices\\Shop.ApplicationServices.csproj"
               },
-              "C:\\Users\\opilane\\Source\\Repos\\TARgv22_Shop\\Shop\\Shop.Data\\Shop.Data.csproj": {
-                "projectPath": "C:\\Users\\opilane\\Source\\Repos\\TARgv22_Shop\\Shop\\Shop.Data\\Shop.Data.csproj"
+              "C:\\Users\\opilane\\source\\repos\\TARgv22_Shop\\Shop\\Shop.Data\\Shop.Data.csproj": {
+                "projectPath": "C:\\Users\\opilane\\source\\repos\\TARgv22_Shop\\Shop\\Shop.Data\\Shop.Data.csproj"
               }
             }
           }
