@@ -5,6 +5,8 @@
     <h2>@Html.DisplayFor(model => model.City)</h2>
     <hr />
 
+    <dl class="row">
+
     <div class="form-group row">
         <label asp-for="Temp" class="col-sm-2 col-form-label"></label>
         @Html.DisplayFor(model => model.Temp) °C
@@ -34,4 +36,5 @@
         <label asp-for="WindSpeed" class="col-sm-2 col-form-label"></label>
         @Html.DisplayFor(model => model.WindSpeed) m/s
     </div>
+    </dl>
 </div>
