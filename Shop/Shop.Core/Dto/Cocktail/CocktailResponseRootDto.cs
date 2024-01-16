@@ -1,4 +1,4 @@
-﻿using Shop.Core.Dto.OpenWeatherDto;
+﻿using Shop.Core.Dto.OpenWeatherDtos;
 using System;
 using System.Collections.Generic;
 using System.Linq;

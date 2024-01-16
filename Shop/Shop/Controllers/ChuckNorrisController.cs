@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Shop.Core.Dto.ChuckNorris;
-using Shop.Core.Dto.OpenWeatherDto;
+using Shop.Core.Dto.OpenWeatherDtos;
 using Shop.Core.ServiceInterface;
-using SpaceShop.Models.ChuckNorris;
-using SpaceShop.Models.OpenWeathers;
+using Shop.Models.ChuckNorris;
+using Shop.Models.OpenWeathers;
 
 namespace Shop.Controllers
 {

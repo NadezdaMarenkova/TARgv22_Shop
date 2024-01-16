@@ -1,6 +1,6 @@
 ﻿using Nancy.Json;
 using Shop.Core.Dto.ChuckNorris;
-using Shop.Core.Dto.OpenWeatherDto;
+using Shop.Core.Dto.OpenWeatherDtos;
 using Shop.Core.ServiceInterface;
 using System;
 using System.Collections.Generic;

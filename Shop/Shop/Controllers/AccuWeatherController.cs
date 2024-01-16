@@ -1,10 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Shop.ApplicationServices.Services;
 using Shop.Core.Dto.Accuweather;
-using Shop.Core.Dto.OpenWeatherDto;
+using Shop.Core.Dto.OpenWeatherDtos;
 using Shop.Core.ServiceInterface;
-using SpaceShop.Models.AccuWeather;
-using SpaceShop.Models.OpenWeathers; 
+using Shop.Models.AccuWeather;
+using Shop.Models.OpenWeathers; 
 
 namespace Shop.Controllers
 {
